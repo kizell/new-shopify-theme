@@ -1,2 +1,2 @@
 # new-shopify-theme
-Creating a new theme from Trimble
+Creating a new theme from Timber
